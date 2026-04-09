@@ -1,4 +1,4 @@
-# Input Source Switcher
+# Display Input Switcher
 
 Switch your external monitor's input source (HDMI, DisplayPort, USB-C) directly from Raycast on Apple Silicon Macs.
 

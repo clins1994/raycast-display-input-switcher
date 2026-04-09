@@ -1,4 +1,4 @@
-# Input Source Switcher Changelog
+# Display Input Switcher Changelog
 
 ## [Initial Version] - {PR_MERGE_DATE}
 
